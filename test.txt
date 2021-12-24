@@ -1,1 +1,1 @@
-I edited the text file
+i deleted modification and i made this to know visual studio git
